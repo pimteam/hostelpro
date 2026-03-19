@@ -120,7 +120,7 @@ This project is now **open source** and available for everyone under the GPL v2 
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Requirements
 - WordPress 5.0 or higher
