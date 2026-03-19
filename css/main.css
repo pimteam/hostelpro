@@ -1,0 +1,58 @@
+.hostelpro-form label {
+	font-weight:bold;
+	min-width: 150px;
+	display:block;
+	float:left;
+}
+
+.hostelpro-box {padding:10px;}
+
+.hostelpro-error {
+	color: red;
+	font-weight: bold;
+}
+
+.hostelpro-note {
+	background-color: #E5FFF5;
+	padding: 5px;
+	font-weight: bold;
+}
+
+.hostelpro-dashed {
+	border: 1px dashed black;
+}
+
+.hostelpro-help {
+	font-style: italic;
+}
+
+.hostelproDatePicker {
+	width: 120px;
+}
+
+.hostelpro-book-buttton-wrap {
+	margin-top:20px;
+}
+
+.hostelpro-highlight a {
+	background-color : #55AA55 !important;
+   background-image :none !important;
+   color: white !important;
+   font-weight:bold !important;  
+}
+
+.hostelpro-addon-description {
+	font-style: italic;
+}
+
+#ui-datepicker-div {
+   display: none;
+   position: absolute !important;
+   z-index: 999999999 !important;
+}
+
+.hostelproDatePicker {
+	min-width: 150px;
+}
+
+.hostelpro-beewax { display: none;}

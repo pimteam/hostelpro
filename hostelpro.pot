@@ -1,0 +1,2762 @@
+# Copyright (C) 2018 Hostel PRO
+# This file is distributed under the same license as the Hostel PRO package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostel PRO 1.9.6\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/hostelpro\n"
+"POT-Creation-Date: 2018-02-19 09:29:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: controllers/addons.php:30 controllers/addons.php:48
+msgid "You can manage only your own addon services."
+msgstr ""
+
+#: controllers/addons.php:90 controllers/ajax.php:39
+#: controllers/shortcodes.php:452 controllers/shortcodes.php:580
+#: views/addons.html.php:25 views/booking.html.php:33
+#: views/form-fields.html.php:114 views/raw-code-booking.html.php:32
+msgid "per person"
+msgstr ""
+
+#: controllers/addons.php:94 controllers/ajax.php:40
+#: controllers/shortcodes.php:453 controllers/shortcodes.php:581
+#: views/addons.html.php:26 views/booking.html.php:34
+#: views/form-fields.html.php:115 views/raw-code-booking.html.php:33
+msgid "per day"
+msgstr ""
+
+#: controllers/ajax.php:49 controllers/ajax.php:55 controllers/bookings.php:318
+#: controllers/shortcodes.php:21
+msgid "Online booking is not enabled."
+msgstr ""
+
+#: controllers/bookings.php:60
+msgid "You can manage only bookings you have added manually."
+msgstr ""
+
+#: controllers/bookings.php:92 controllers/bookings.php:121
+msgid "You can view only bookings you have added manually."
+msgstr ""
+
+#: controllers/bookings.php:202
+msgid "<b>%s:</b> %s<br>"
+msgstr ""
+
+#: controllers/bookings.php:333
+msgid ""
+"Sorry, we could not process your reservation. Please contact us to book "
+"manually\t."
+msgstr ""
+
+#: controllers/bookings.php:340
+msgid "The answer to the verification question was not correct."
+msgstr ""
+
+#: controllers/bookings.php:457 controllers/shortcodes.php:51
+msgid "Minimum stay of %d days is required."
+msgstr ""
+
+#: controllers/bookings.php:461
+msgid "You are trying to book more beds than available. This room has %d beds."
+msgstr ""
+
+#: controllers/bookings.php:465
+msgid ""
+"You are trying to book more extra beds than available. This room offers up "
+"to %d extra beds."
+msgstr ""
+
+#: controllers/bookings.php:470
+msgid "This is a private room. You have to book all the %d beds"
+msgstr ""
+
+#: controllers/bookings.php:479
+msgid ""
+"In your selection there are dates when the room is not available or there "
+"are not enough free beds. Please check your selection."
+msgstr ""
+
+#: controllers/bookings.php:560
+msgid "Item"
+msgstr ""
+
+#: controllers/bookings.php:560
+msgid "Quantity"
+msgstr ""
+
+#: controllers/bookings.php:561
+msgid "Unit price"
+msgstr ""
+
+#: controllers/bookings.php:561 views/partial/multiple-table.html.php:5
+msgid "Cost"
+msgstr ""
+
+#: controllers/bookings.php:562
+msgid "%d days"
+msgstr ""
+
+#: controllers/bookings.php:563
+msgid "%s %s per day"
+msgstr ""
+
+#: controllers/bookings.php:564 controllers/bookings.php:569
+#: controllers/bookings.php:574 controllers/bookings.php:578
+#: views/addons.html.php:24
+msgid "%s %s"
+msgstr ""
+
+#: controllers/bookings.php:567
+msgid "Extra beds"
+msgstr ""
+
+#: controllers/bookings.php:568
+msgid "%s %s per bed per day"
+msgstr ""
+
+#: controllers/bookings.php:572
+msgid "Addon services:"
+msgstr ""
+
+#: controllers/bookings.php:573
+msgid "N/a"
+msgstr ""
+
+#: controllers/bookings.php:577 controllers/discounts.php:34
+#: controllers/discounts.php:68 controllers/invoices.php:84
+#: controllers/invoices.php:85 views/discounts.html.php:27
+msgid "Discount"
+msgstr ""
+
+#: controllers/bookings.php:579
+msgid "-%s %s"
+msgstr ""
+
+#: controllers/bookings.php:673 views/bookings.html.php:53
+msgid "ID"
+msgstr ""
+
+#: controllers/bookings.php:673
+msgid "Rooms/beds"
+msgstr ""
+
+#: controllers/bookings.php:673 views/bookings.html.php:53
+msgid "Contact name"
+msgstr ""
+
+#: controllers/bookings.php:674 views/bookings.html.php:54
+msgid "Contact email"
+msgstr ""
+
+#: controllers/bookings.php:674 views/bookings.html.php:55
+msgid "Booking dates"
+msgstr ""
+
+#: controllers/bookings.php:674 views/bookings.html.php:56
+msgid "Time of booking"
+msgstr ""
+
+#: controllers/bookings.php:675 views/bookings.html.php:57
+msgid "Amount paid/due"
+msgstr ""
+
+#: controllers/bookings.php:675 views/bookings.html.php:58
+msgid "Status"
+msgstr ""
+
+#: controllers/bookings.php:676 views/bookings.html.php:60
+msgid "Custom fields"
+msgstr ""
+
+#: controllers/bookings.php:680 views/bookings.html.php:71
+msgid "%d + %d"
+msgstr ""
+
+#: controllers/bookings.php:681 views/bookings.html.php:75
+msgid "%s beds in %s"
+msgstr ""
+
+#: controllers/bookings.php:684 views/bookings.html.php:79
+msgid "n/a"
+msgstr ""
+
+#: controllers/bookings.php:688 views/booking.html.php:41
+#: views/bookings.html.php:33 views/bookings.html.php:82
+msgid "Active"
+msgstr ""
+
+#: controllers/bookings.php:689 views/bookings.html.php:34
+#: views/bookings.html.php:83
+msgid "Pending"
+msgstr ""
+
+#: controllers/bookings.php:690 views/booking.html.php:43
+#: views/bookings.html.php:35 views/bookings.html.php:84
+msgid "Cancelled"
+msgstr ""
+
+#: controllers/discounts.php:34 controllers/discounts.php:68
+#: views/discounts.html.php:27
+msgid "Surcharge"
+msgstr ""
+
+#: controllers/discounts.php:52 controllers/discounts.php:87
+msgid "You can manage only discounts/surcharges created by you."
+msgstr ""
+
+#: controllers/invoices.php:32
+msgid "Invoice not found!"
+msgstr ""
+
+#: controllers/invoices.php:70 views/ical.html.php:11 views/ical.html.php:12
+msgid "Booking"
+msgstr ""
+
+#: controllers/reports.php:130 controllers/reports.php:202
+msgid "Other rooms"
+msgstr ""
+
+#: controllers/roles.php:70
+msgid "You are not allowed to do this."
+msgstr ""
+
+#: controllers/rooms.php:16
+msgid "Room added."
+msgstr ""
+
+#: controllers/rooms.php:27 controllers/rooms.php:49
+msgid "You can manage only your own rooms."
+msgstr ""
+
+#: controllers/rooms.php:32
+msgid "Room details saved."
+msgstr ""
+
+#: controllers/rooms.php:53
+msgid "Room deleted."
+msgstr ""
+
+#: controllers/rooms.php:96
+msgid ""
+"To ensure you stay together, Dorm bookings are limited to the number of beds "
+"in one room. If you require more beds, then please place another booking"
+msgstr ""
+
+#: controllers/shortcodes.php:160 controllers/shortcodes.php:196
+#: views/partial/rooms-table.html.php:15 views/partial/rooms-table.html.php:55
+msgid "Book"
+msgstr ""
+
+#: controllers/shortcodes.php:317
+msgid "- Please select -"
+msgstr ""
+
+#: controllers/shortcodes.php:355
+msgid "%1$s Book the whole room for %2$s%3$s"
+msgstr ""
+
+#: controllers/shortcodes.php:407 views/booking.html.php:25
+msgid "Couple"
+msgstr ""
+
+#: controllers/shortcodes.php:408 views/booking.html.php:23
+msgid "Male(s)"
+msgstr ""
+
+#: controllers/shortcodes.php:409 views/booking.html.php:24
+msgid "Female(s)"
+msgstr ""
+
+#: controllers/shortcodes.php:410 models/room.php:155 views/booking.html.php:26
+#: views/room.php:15
+msgid "Mixed"
+msgstr ""
+
+#: controllers/shortcodes.php:515 views/form-fields.html.php:122
+#: views/raw-code-booking.html.php:42
+msgid "Make Reservation"
+msgstr ""
+
+#: models/booking.php:284
+msgid "You have missed a required field"
+msgstr ""
+
+#: models/discount.php:4
+msgid "Mon"
+msgstr ""
+
+#: models/discount.php:4
+msgid "Tue"
+msgstr ""
+
+#: models/discount.php:5
+msgid "Wed"
+msgstr ""
+
+#: models/discount.php:5
+msgid "Thu"
+msgstr ""
+
+#: models/discount.php:5
+msgid "Fri"
+msgstr ""
+
+#: models/discount.php:6
+msgid "Sat"
+msgstr ""
+
+#: models/discount.php:6
+msgid "Sun"
+msgstr ""
+
+#: models/discount.php:87
+msgid "Every day"
+msgstr ""
+
+#. #-#-#-#-#  hostelpro.pot (Hostel PRO 1.9.6)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: models/hostelpro.php:246
+msgid "Hostel PRO"
+msgstr ""
+
+#: models/hostelpro.php:249
+msgid "Settings"
+msgstr ""
+
+#: models/hostelpro.php:253 views/rooms.php:5
+msgid "Manage Rooms"
+msgstr ""
+
+#: models/hostelpro.php:255
+msgid "Addon Services"
+msgstr ""
+
+#: models/hostelpro.php:257
+msgid "Manage Bookings"
+msgstr ""
+
+#: models/hostelpro.php:259
+msgid "Calendar Overview"
+msgstr ""
+
+#: models/hostelpro.php:261
+msgid "Booking Form"
+msgstr ""
+
+#: models/hostelpro.php:263
+msgid "Unavailable Dates"
+msgstr ""
+
+#: models/hostelpro.php:265
+msgid "Discounts &amp; Surcharges"
+msgstr ""
+
+#: models/hostelpro.php:267
+msgid "Reports &amp; Charts"
+msgstr ""
+
+#: models/hostelpro.php:269 views/email-log.html.php:2
+msgid "Email Log"
+msgstr ""
+
+#: models/hostelpro.php:270
+msgid "Help"
+msgstr ""
+
+#: models/hostelpro.php:273
+msgid "Room Calendar"
+msgstr ""
+
+#: models/hostelpro.php:274 views/manage-invoice-template.html.php:2
+msgid "Manage Invoice Template"
+msgstr ""
+
+#: models/hostelpro.php:275
+msgid "Room Bookings Calendar"
+msgstr ""
+
+#: models/hostelpro.php:276
+msgid "Minimum Stay Periods"
+msgstr ""
+
+#: models/hostelpro.php:277
+msgid "Fine-tune Roles Access"
+msgstr ""
+
+#: models/hostelpro.php:300
+msgid "Please provide a valid email address"
+msgstr ""
+
+#: models/hostelpro.php:301
+msgid "Please provide name"
+msgstr ""
+
+#: models/hostelpro.php:302
+msgid "Please enter number of beds, numbers only"
+msgstr ""
+
+#: models/hostelpro.php:303
+msgid "Please enter arrival date"
+msgstr ""
+
+#: models/hostelpro.php:304
+msgid "Please enter date of leaving"
+msgstr ""
+
+#: models/hostelpro.php:305
+msgid "Date of arrival cannot be in the past"
+msgstr ""
+
+#: models/hostelpro.php:306
+msgid "Date of arrival cannot be after date of leave"
+msgstr ""
+
+#: models/hostelpro.php:307
+msgid "This field is required"
+msgstr ""
+
+#: models/hostelpro.php:308
+msgid "You need to answer the verification question"
+msgstr ""
+
+#: models/hostelpro.php:309
+msgid "Please select room"
+msgstr ""
+
+#: models/hostelpro.php:310
+msgid "Minimum stay of %d days is required"
+msgstr ""
+
+#: models/hostelpro.php:311 views/list-rooms.html.php:26
+msgid "Please wait..."
+msgstr ""
+
+#: models/hostelpro.php:312
+msgid "Loading..."
+msgstr ""
+
+#: models/hostelpro.php:313 views/addons.html.php:38 views/booking.html.php:71
+#: views/bookings.html.php:120 views/discounts.html.php:44
+#: views/form-field.html.php:83 views/minstays.html.php:44 views/rooms.php:55
+msgid "Are you sure?"
+msgstr ""
+
+#: models/hostelpro.php:459
+msgid ""
+"You cannot access the Settings page. Use the links in the menu to access the "
+"pages you have permissions to access."
+msgstr ""
+
+#: models/hostelpro.php:576
+msgid "A new booking was made"
+msgstr ""
+
+#: models/hostelpro.php:580
+msgid ""
+"[bookings]Booking details: {{url}}<br>From date: {{from-date}}<br>To date: "
+"{{to-date}}<br>Amount paid: {{amount-paid}}<br>Amount due: {{amount-due}}"
+"<br>Room name: {{room-name}}<br>Room type: {{room-type}}<br>Num beds: {{num-"
+"beds}}<br>Contact email: {{contact-email}}<br>Contact name: {{contact-name}}"
+"<br>Contact phone: {{contact-phone}}<br>Timestamp: {{timestamp}}[/bookings]"
+msgstr ""
+
+#: models/hostelpro.php:584
+msgid "Thank you for your booking!"
+msgstr ""
+
+#: models/hostelpro.php:588
+msgid ""
+"Below is a confirmation for your booking:<br>[bookings]From date: {{from-"
+"date}}<br>To date: {{to-date}}<br>Amount paid: {{amount-paid}}<br>Amount "
+"due: {{amount-due}}<br>Room type: {{room-type}}<br>Num beds: {{num-beds}}[/"
+"bookings]"
+msgstr ""
+
+#: models/hostelpro.php:595
+msgid "What is the color of the snow? = white"
+msgstr ""
+
+#: models/hostelpro.php:595
+msgid "Is fire hot or cold? = hot"
+msgstr ""
+
+#: models/hostelpro.php:596
+msgid "In which continent is France? = Europe"
+msgstr ""
+
+#: models/payment.php:335
+msgid ""
+"Thank you! Your payment is accepted. <a href=\"{{{back-url}}}\">Go back</a>"
+msgstr ""
+
+#: models/room.php:133 views/reports.html.php:55 views/reports.html.php:95
+#: views/room.php:10
+msgid "Private"
+msgstr ""
+
+#: models/room.php:136
+msgid "Male Dorm"
+msgstr ""
+
+#: models/room.php:137
+msgid "Female Dorm"
+msgstr ""
+
+#: models/room.php:138
+msgid "Mixed Dorm"
+msgstr ""
+
+#: models/room.php:146 views/room.php:24
+msgid "Ensuite"
+msgstr ""
+
+#: models/room.php:147 views/room.php:25
+msgid "Shared"
+msgstr ""
+
+#: models/room.php:153 views/room.php:16
+msgid "Male"
+msgstr ""
+
+#: models/room.php:154 views/room.php:17
+msgid "Female"
+msgstr ""
+
+#: models/room.php:161 views/room.php:29
+msgid "Per person per night"
+msgstr ""
+
+#: models/room.php:162 views/room.php:30
+msgid "Per night for the whole room"
+msgstr ""
+
+#: views/addon-display.html.php:4 views/form-fields.html.php:116
+#: views/raw-code-booking.html.php:34
+msgid "%s - %s%s %s"
+msgstr ""
+
+#: views/addon.html.php:2
+msgid "Add/Edit Addon Service"
+msgstr ""
+
+#: views/addon.html.php:4
+msgid "Back to manage addon services"
+msgstr ""
+
+#: views/addon.html.php:8
+msgid "Service name:"
+msgstr ""
+
+#: views/addon.html.php:9
+msgid "Room:"
+msgstr ""
+
+#: views/addon.html.php:10 views/addons.html.php:23 views/discount.html.php:51
+#: views/discounts.html.php:33
+msgid "All rooms"
+msgstr ""
+
+#: views/addon.html.php:16
+msgid "price:"
+msgstr ""
+
+#: views/addon.html.php:18
+msgid "Per person"
+msgstr ""
+
+#: views/addon.html.php:19
+msgid "Per day"
+msgstr ""
+
+#: views/addon.html.php:21
+msgid "Maximum availability"
+msgstr ""
+
+#: views/addon.html.php:21
+msgid "(Leave blank or enter 0 for no limit)"
+msgstr ""
+
+#: views/addon.html.php:23
+msgid ""
+"If you select \"per person\" the price will be automatically multiplied by "
+"the number of persons who book. In this case the user will have the choice "
+"to select or deselect the addon, but not to change the number."
+msgstr ""
+
+#: views/addon.html.php:24
+msgid ""
+"If you select \"per day\" the price will automatically be multiplied by the "
+"number of booked days."
+msgstr ""
+
+#: views/addon.html.php:26
+msgid "Optional description"
+msgstr ""
+
+#: views/addon.html.php:29
+msgid "This addon service is currently inactive and will not be offered."
+msgstr ""
+
+#: views/addon.html.php:33
+msgid "Save Addon Service"
+msgstr ""
+
+#: views/addon.html.php:42
+msgid "Please enter service name"
+msgstr ""
+
+#: views/addon.html.php:48
+msgid "Please enter service price"
+msgstr ""
+
+#: views/addons.html.php:6
+msgid "Manage Addon Services"
+msgstr ""
+
+#: views/addons.html.php:8
+msgid ""
+"Here you can add services like bike rentals and car rentals, laundry, "
+"breakfast, extra beds etc. They will appear on the booking form and your "
+"guests will be able to add them to their booking. Each addon service can "
+"have fixed price, price per person, price per day, or combined."
+msgstr ""
+
+#: views/addons.html.php:10
+msgid "Create addon service"
+msgstr ""
+
+#: views/addons.html.php:15
+msgid "Service"
+msgstr ""
+
+#: views/addons.html.php:15 views/discounts.html.php:20
+#: views/partial/rooms-table.html.php:2
+msgid "Room"
+msgstr ""
+
+#: views/addons.html.php:15 views/partial/rooms-table.html.php:15
+#: views/rooms.php:19
+msgid "Price"
+msgstr ""
+
+#: views/addons.html.php:15
+msgid "Max. available"
+msgstr ""
+
+#: views/addons.html.php:16
+msgid "Edit / Delete"
+msgstr ""
+
+#: views/addons.html.php:27
+msgid "Unlimited"
+msgstr ""
+
+#: views/addons.html.php:28 views/bookings.html.php:92
+#: views/discounts.html.php:34 views/form-field.html.php:2
+#: views/form-fields.html.php:34 views/rooms.php:30
+msgid "Edit"
+msgstr ""
+
+#: views/addons.html.php:29 views/discounts.html.php:36
+#: views/minstays.html.php:22 views/rooms.php:30
+msgid "Delete"
+msgstr ""
+
+#: views/booking.html.php:2
+msgid "Add/Edit Reservation"
+msgstr ""
+
+#: views/booking.html.php:6 views/raw-code-booking.html.php:3
+msgid "Select room:"
+msgstr ""
+
+#: views/booking.html.php:11 views/form-fields.html.php:87
+msgid "No. beds to book:"
+msgstr ""
+
+#: views/booking.html.php:12 views/form-fields.html.php:90
+#: views/raw-code-booking.html.php:4
+msgid "Extra beds:"
+msgstr ""
+
+#: views/booking.html.php:13
+msgid "Child beds:"
+msgstr ""
+
+#: views/booking.html.php:14 views/unavailable-dates.html.php:11
+msgid "From date:"
+msgstr ""
+
+#: views/booking.html.php:15 views/unavailable-dates.html.php:12
+msgid "To date:"
+msgstr ""
+
+#: views/booking.html.php:16
+msgid "Amount paid:"
+msgstr ""
+
+#: views/booking.html.php:17
+msgid "Amount due:"
+msgstr ""
+
+#: views/booking.html.php:18
+msgid "Discount:"
+msgstr ""
+
+#: views/booking.html.php:19
+msgid "Contact name:"
+msgstr ""
+
+#: views/booking.html.php:20
+msgid "Contact email:"
+msgstr ""
+
+#: views/booking.html.php:21
+msgid "Contact phone:"
+msgstr ""
+
+#: views/booking.html.php:22
+msgid "Visitors type:"
+msgstr ""
+
+#: views/booking.html.php:40
+msgid "Booking status:"
+msgstr ""
+
+#: views/booking.html.php:42
+msgid "Pending (not confirmed)"
+msgstr ""
+
+#: views/booking.html.php:53
+msgid ""
+"Send email notice to the guest about this booking. Email notices are "
+"configurable in the <a href=\"%s\" target=\"_blank\">Settings page</a>."
+msgstr ""
+
+#: views/booking.html.php:57
+msgid "Save Reservation"
+msgstr ""
+
+#: views/booking.html.php:59
+msgid "Delete booking"
+msgstr ""
+
+#: views/booking.html.php:61
+msgid "Go Back"
+msgstr ""
+
+#: views/bookings.html.php:6
+msgid "Manage Bookings / Reservations"
+msgstr ""
+
+#: views/bookings.html.php:10
+msgid "Showing"
+msgstr ""
+
+#: views/bookings.html.php:11
+msgid "Upcoming"
+msgstr ""
+
+#: views/bookings.html.php:12
+msgid "Past"
+msgstr ""
+
+#: views/bookings.html.php:13
+msgid "bookings"
+msgstr ""
+
+#: views/bookings.html.php:16
+msgid "Search bookings"
+msgstr ""
+
+#: views/bookings.html.php:17
+msgid "Edit the invoice template"
+msgstr ""
+
+#: views/bookings.html.php:22
+msgid "Filter by booking ID:"
+msgstr ""
+
+#: views/bookings.html.php:23
+msgid "Filter by email:"
+msgstr ""
+
+#: views/bookings.html.php:24
+msgid "Filter by name:"
+msgstr ""
+
+#: views/bookings.html.php:25
+msgid "Filter by room:"
+msgstr ""
+
+#: views/bookings.html.php:26
+msgid "Any room"
+msgstr ""
+
+#: views/bookings.html.php:31
+msgid "Filter by status:"
+msgstr ""
+
+#: views/bookings.html.php:32
+msgid "Any status"
+msgstr ""
+
+#: views/bookings.html.php:37
+msgid "Search/filter bookings"
+msgstr ""
+
+#: views/bookings.html.php:38
+msgid "Clear filters"
+msgstr ""
+
+#: views/bookings.html.php:42
+msgid "Click here to manually add a new booking"
+msgstr ""
+
+#: views/bookings.html.php:45
+msgid "There are no bookings to show at the moment."
+msgstr ""
+
+#: views/bookings.html.php:48
+msgid "Export this data"
+msgstr ""
+
+#: views/bookings.html.php:53
+msgid "Room/beds"
+msgstr ""
+
+#: views/bookings.html.php:62 views/rooms.php:19
+msgid "Action"
+msgstr ""
+
+#: views/bookings.html.php:87
+msgid "view invoice"
+msgstr ""
+
+#: views/bookings.html.php:94
+msgid "Mark as paid"
+msgstr ""
+
+#: views/bookings.html.php:96
+msgid "Send emails when marking paid."
+msgstr ""
+
+#: views/bookings.html.php:104 views/rooms.php:43
+msgid "[previous page]"
+msgstr ""
+
+#: views/bookings.html.php:107 views/rooms.php:46
+msgid "[next page]"
+msgstr ""
+
+#: views/bookings.html.php:113
+msgid "Delete Selected Reservations"
+msgstr ""
+
+#: views/calendar-overview.html.php:2
+msgid "Calendar Overview of All Bookings"
+msgstr ""
+
+#: views/calendar-overview.html.php:4
+msgid ""
+"The table below shows all rooms in your property and their availability for "
+"the given day. The date will be shown green if the room has any "
+"availability. For dorm rooms this means that even one available bed will "
+"show the date green."
+msgstr ""
+
+#: views/discount.html.php:2
+msgid "Add/Edit %s"
+msgstr ""
+
+#: views/discount.html.php:6
+msgid "%s name:"
+msgstr ""
+
+#: views/discount.html.php:7
+msgid "(For management purposes)"
+msgstr ""
+
+#: views/discount.html.php:9
+msgid "Apply date condition"
+msgstr ""
+
+#: views/discount.html.php:11 views/minstays.html.php:7
+#: views/minstays.html.php:18 views/reports.html.php:16
+#: views/room-calendar.html.php:17
+msgid "From:"
+msgstr ""
+
+#: views/discount.html.php:13 views/minstays.html.php:8
+#: views/minstays.html.php:19 views/reports.html.php:18
+#: views/room-calendar.html.php:18
+msgid "To:"
+msgstr ""
+
+#: views/discount.html.php:17
+msgid "Apply to days of the week"
+msgstr ""
+
+#: views/discount.html.php:19
+msgid "Select days:"
+msgstr ""
+
+#: views/discount.html.php:26
+msgid "Apply coupon code condition"
+msgstr ""
+
+#: views/discount.html.php:28
+msgid "Coupon code:"
+msgstr ""
+
+#: views/discount.html.php:31
+msgid "Apply minimum stay condition"
+msgstr ""
+
+#: views/discount.html.php:33
+msgid "Min nights booked:"
+msgstr ""
+
+#: views/discount.html.php:37
+msgid "Apply minimum total price condition"
+msgstr ""
+
+#: views/discount.html.php:39
+msgid "Min total is:"
+msgstr ""
+
+#: views/discount.html.php:49
+msgid "Apply to room:"
+msgstr ""
+
+#: views/discount.html.php:59
+msgid "Save %s"
+msgstr ""
+
+#: views/discount.html.php:69
+msgid "Please enter discount name"
+msgstr ""
+
+#: views/discount.html.php:75
+msgid "Please enter discount value, numbers only"
+msgstr ""
+
+#: views/discounts.html.php:6
+msgid "Manage Discounts &amp; Surcharges"
+msgstr ""
+
+#: views/discounts.html.php:8
+msgid "Create a discount"
+msgstr ""
+
+#: views/discounts.html.php:9
+msgid "Create a surcharge"
+msgstr ""
+
+#: views/discounts.html.php:12
+msgid "There are no discounts or surcharges yet."
+msgstr ""
+
+#: views/discounts.html.php:18
+msgid "Name"
+msgstr ""
+
+#: views/discounts.html.php:18
+msgid "Type"
+msgstr ""
+
+#: views/discounts.html.php:18
+msgid "Date condition"
+msgstr ""
+
+#: views/discounts.html.php:19
+msgid "Weekdays"
+msgstr ""
+
+#: views/discounts.html.php:19
+msgid "Total price condition"
+msgstr ""
+
+#: views/discounts.html.php:19
+msgid "Coupon code"
+msgstr ""
+
+#: views/discounts.html.php:20
+msgid "Discount / Surcharge"
+msgstr ""
+
+#: views/discounts.html.php:21 views/form-fields.html.php:22
+msgid "Edit/Delete"
+msgstr ""
+
+#: views/discounts.html.php:28
+msgid "From %s to %s"
+msgstr ""
+
+#: views/discounts.html.php:28
+msgid "Any dates"
+msgstr ""
+
+#: views/discounts.html.php:30 views/discounts.html.php:31
+msgid "None"
+msgstr ""
+
+#: views/discounts.html.php:30 views/discounts.html.php:32
+msgid "%1$s %2$s"
+msgstr ""
+
+#: views/email-log.html.php:4
+msgid ""
+"This page shows what booking notification emails have been sent on each "
+"date. The last column will show the message status, i.e. response from the "
+"mailing server. If emails are not delivered or you see errors there you "
+"should contact your hosting support."
+msgstr ""
+
+#: views/email-log.html.php:8
+msgid "Log date:"
+msgstr ""
+
+#: views/email-log.html.php:9
+msgid "Show log"
+msgstr ""
+
+#: views/email-log.html.php:11
+msgid "Automatically cleanup old logs after"
+msgstr ""
+
+#: views/email-log.html.php:11 views/minstays.html.php:9
+#: views/minstays.html.php:20 views/options.php:85
+msgid "days"
+msgstr ""
+
+#: views/email-log.html.php:11
+msgid "Set Cleanup"
+msgstr ""
+
+#: views/email-log.html.php:15
+msgid "No emails have been sent on the selected date."
+msgstr ""
+
+#: views/email-log.html.php:18
+msgid "Time"
+msgstr ""
+
+#: views/email-log.html.php:18
+msgid "Sender"
+msgstr ""
+
+#: views/email-log.html.php:18
+msgid "Receiver"
+msgstr ""
+
+#: views/email-log.html.php:19
+msgid "Subject"
+msgstr ""
+
+#: views/email-log.html.php:19
+msgid "Response from the mailing server"
+msgstr ""
+
+#: views/form-field.html.php:2
+msgid "Add"
+msgstr ""
+
+#: views/form-field.html.php:2
+msgid "Custom Field In The Booking Form"
+msgstr ""
+
+#: views/form-field.html.php:4
+msgid "Back to the booking form"
+msgstr ""
+
+#: views/form-field.html.php:8
+msgid "Field Name:"
+msgstr ""
+
+#: views/form-field.html.php:9
+msgid "Only small letters and numbers, no spaces."
+msgstr ""
+
+#: views/form-field.html.php:11
+msgid "Field Label:"
+msgstr ""
+
+#: views/form-field.html.php:12
+msgid "This is what the user will see on the form"
+msgstr ""
+
+#: views/form-field.html.php:14
+msgid "Field Type:"
+msgstr ""
+
+#: views/form-field.html.php:15
+msgid "Text Field"
+msgstr ""
+
+#: views/form-field.html.php:16
+msgid "Text Area"
+msgstr ""
+
+#: views/form-field.html.php:17
+msgid "Checkbox"
+msgstr ""
+
+#: views/form-field.html.php:18
+msgid "Drop Down"
+msgstr ""
+
+#: views/form-field.html.php:19
+msgid "Radio Group"
+msgstr ""
+
+#: views/form-field.html.php:20
+msgid "Date Selector"
+msgstr ""
+
+#: views/form-field.html.php:21
+msgid "File upload"
+msgstr ""
+
+#: views/form-field.html.php:26
+msgid "Possible values:"
+msgstr ""
+
+#: views/form-field.html.php:28
+msgid "Enter one value per line."
+msgstr ""
+
+#: views/form-field.html.php:31
+msgid "Max file size in KB:"
+msgstr ""
+
+#: views/form-field.html.php:31
+msgid "(Leave blank for no limit)"
+msgstr ""
+
+#: views/form-field.html.php:32
+msgid "Accepted file types (ex. \"jpg, png, doc\"):"
+msgstr ""
+
+#: views/form-field.html.php:32
+msgid ""
+"(Separate with comma, case insensitive. Leave blank for no restrictions)"
+msgstr ""
+
+#: views/form-field.html.php:35
+msgid "This is a required field"
+msgstr ""
+
+#: views/form-field.html.php:41
+msgid "Add Field"
+msgstr ""
+
+#: views/form-field.html.php:43
+msgid "Save Field"
+msgstr ""
+
+#: views/form-field.html.php:44
+msgid "Delete Field"
+msgstr ""
+
+#: views/form-field.html.php:47
+msgid "Cancel"
+msgstr ""
+
+#: views/form-field.html.php:55
+msgid "Please enter name"
+msgstr ""
+
+#: views/form-field.html.php:61
+msgid "Please enter label"
+msgstr ""
+
+#: views/form-fields.html.php:14
+msgid "Manage Your Booking Form"
+msgstr ""
+
+#: views/form-fields.html.php:16
+msgid "Manage Custom Fields"
+msgstr ""
+
+#: views/form-fields.html.php:18
+msgid "Create new custom field"
+msgstr ""
+
+#: views/form-fields.html.php:21
+msgid "Field Label"
+msgstr ""
+
+#: views/form-fields.html.php:21
+msgid "Field Name"
+msgstr ""
+
+#: views/form-fields.html.php:21
+msgid "Field Type"
+msgstr ""
+
+#: views/form-fields.html.php:22
+msgid "Is Required?"
+msgstr ""
+
+#: views/form-fields.html.php:27
+msgid "Move Up"
+msgstr ""
+
+#: views/form-fields.html.php:30
+msgid "Move Down"
+msgstr ""
+
+#: views/form-fields.html.php:33
+msgid "Yes"
+msgstr ""
+
+#: views/form-fields.html.php:33
+msgid "No"
+msgstr ""
+
+#: views/form-fields.html.php:38
+msgid "There are no custom fields yet."
+msgstr ""
+
+#: views/form-fields.html.php:42
+msgid "Configure the Auto-Generated Booking Form"
+msgstr ""
+
+#: views/form-fields.html.php:44
+msgid ""
+"Use the \"Raw code for visual mode\" from the box on bottom of this page to "
+"configure how the auto-generated booking form will look like. If you do not "
+"configure this, a default booking form will be used.<br> This auto-generated "
+"form is displayed for example after clicking on the \"Book\" button on the "
+"table that lists rooms ([hostelpro-list] shortcode)."
+msgstr ""
+
+#: views/form-fields.html.php:47
+msgid ""
+"Note: do not separate the [hostelpro-if-extra-beds] shortcode from its "
+"closing part - [/hostelpro-if-extra-beds]. This is a conditional shortcode "
+"and the content enclosed by it will appear only if the chosen room offers "
+"extra beds."
+msgstr ""
+
+#: views/form-fields.html.php:48
+msgid ""
+"You can reorder all fields. You can remove any fields except the required "
+"fields. They can only be hidden by adding \"hidden=true\" attribute in the "
+"shortcode. For example: [hostelpro-field-static beds hidden=true]"
+msgstr ""
+
+#: views/form-fields.html.php:49
+msgid ""
+"If you use room-specific addon services you can include the shortcode %s to "
+"have them dynamically appear on room selection."
+msgstr ""
+
+#: views/form-fields.html.php:50
+msgid ""
+"You can include the room description on the booking form using the shortcode "
+"%s"
+msgstr ""
+
+#: views/form-fields.html.php:52
+msgid ""
+"To include a question based captcha, configured on the HostlPRO Settings "
+"page include the shortcode %s"
+msgstr ""
+
+#: views/form-fields.html.php:54
+msgid "Save design"
+msgstr ""
+
+#: views/form-fields.html.php:58
+msgid "Publish Booking Form"
+msgstr ""
+
+#: views/form-fields.html.php:60
+msgid "You can also manually publish a booking form on a chosen post or page."
+msgstr ""
+
+#: views/form-fields.html.php:62
+msgid "The default shortcode for publishing the booking form is"
+msgstr ""
+
+#: views/form-fields.html.php:63
+msgid ""
+"However you may want to change the design and fields order in the form. To "
+"do this, you can use the WordPress editor friendly code shown in the table "
+"below:"
+msgstr ""
+
+#: views/form-fields.html.php:66
+msgid ""
+"WordPress-friendly form code (to save as default auto-generated form or "
+"place in post or page)"
+msgstr ""
+
+#: views/form-fields.html.php:68
+msgid "How to use the code:"
+msgstr ""
+
+#: views/form-fields.html.php:69
+msgid ""
+"This is the Text mode code. Use it if you are familiar with editing HTML. "
+"Otherwise please click on \"Raw Code for Visual Mode\" and get that code."
+msgstr ""
+
+#: views/form-fields.html.php:71
+msgid ""
+"This is the Visual mode code. Use it if you are NOT familiar with editing "
+"HTML and want to design your form in the WordPress visual editor. Note that "
+"unlike the other code, this has nothing pre-designed."
+msgstr ""
+
+#: views/form-fields.html.php:74
+msgid "Copy the code by clicking in the box at right."
+msgstr ""
+
+#: views/form-fields.html.php:75
+msgid "Create a post or page in your blog or edit an existing post or page."
+msgstr ""
+
+#: views/form-fields.html.php:76
+msgid ""
+"Paste the code in <b>Text Mode</b> of visual editor and feel free to edit it "
+"any way you wish without changing the contents of the shortcodes."
+msgstr ""
+
+#: views/form-fields.html.php:77
+msgid ""
+"Paste the code in <b>Visual Mode</b> of visual editor and feel free to edit "
+"it any way you wish without changing the contents of the shortcodes."
+msgstr ""
+
+#: views/form-fields.html.php:86
+msgid "Select room"
+msgstr ""
+
+#: views/form-fields.html.php:90 views/raw-code-booking.html.php:4
+msgid "%s{{price}} per bed"
+msgstr ""
+
+#: views/form-fields.html.php:92 views/raw-code-booking.html.php:5
+msgid "From date"
+msgstr ""
+
+#: views/form-fields.html.php:93 views/raw-code-booking.html.php:7
+msgid "To date"
+msgstr ""
+
+#: views/form-fields.html.php:94
+msgid "Contact Name"
+msgstr ""
+
+#: views/form-fields.html.php:95
+msgid "Contact Email"
+msgstr ""
+
+#: views/form-fields.html.php:96
+msgid "Contact Phone"
+msgstr ""
+
+#: views/form-fields.html.php:119
+msgid "You are"
+msgstr ""
+
+#: views/form-fields.html.php:120 views/raw-code-booking.html.php:39
+msgid "Discount coupon:"
+msgstr ""
+
+#: views/form-fields.html.php:163
+msgid "You cannot remove the required fields. They can only be hidden."
+msgstr ""
+
+#: views/help.html.php:2
+msgid "Hostel PRO for WordPress"
+msgstr ""
+
+#: views/help.html.php:4
+msgid ""
+"This is a Premium plugin for managing hostels, BNB sites, and small hotel "
+"sites. You get an area where to manage your available rooms and prices, and "
+"the bookings made by visitors. Start with the main settings page to set up "
+"your booking mode, currency etc."
+msgstr ""
+
+#: views/help.html.php:6
+msgid "Getting Started"
+msgstr ""
+
+#: views/help.html.php:9
+msgid ""
+"Visit the <a href=\"%s\">settings page</a> to set up booking methods, "
+"booking form URL etc."
+msgstr ""
+
+#: views/help.html.php:10
+msgid "Create your rooms."
+msgstr ""
+
+#: views/help.html.php:11
+msgid ""
+"If there are dates when your hostel does not work add them in the "
+"\"Unavailable dates\" page."
+msgstr ""
+
+#: views/help.html.php:12
+msgid ""
+"Publish some of the shortcodes below, or the room calendar shortcodes from "
+"the \"Manage Rooms\" page so your guests can see your room availability."
+msgstr ""
+
+#: views/help.html.php:13
+msgid "You are ready to get accept guests!"
+msgstr ""
+
+#: views/help.html.php:16
+msgid "Shortcodes"
+msgstr ""
+
+#: views/help.html.php:19
+msgid ""
+"will display a table with your available rooms. A date selector on the top "
+"lets the user choose dates of their visit and then the rooms list is "
+"updated. If you have enabled booking in your Hostel settings page, the table "
+"will also show \"Book\" button when appropriate. The button will "
+"automaically load the booking form."
+msgstr ""
+
+#: views/help.html.php:20
+msgid ""
+"This shorcode accepts arguments which allow you to specify whether room "
+"title, description, type or bathroom information should be shown in the "
+"table. Each argument can be set to 0 (means \"do not show\") and 1 (means "
+"\"show\"):"
+msgstr ""
+
+#: views/help.html.php:22
+msgid ""
+"Show / hide the table initially when loading the page (it will always be "
+"shown after clicking the availability button). Defaults to 1."
+msgstr ""
+
+#: views/help.html.php:23
+msgid ""
+"Set to 1 if you want the availability checking form to be displayed "
+"horizontally. Defaults to 0 (vertical form)."
+msgstr ""
+
+#: views/help.html.php:24
+msgid "Show / hide room titles. Defaults to 0."
+msgstr ""
+
+#: views/help.html.php:25
+msgid "Show / hide room descriptions. Defaults to 0."
+msgstr ""
+
+#: views/help.html.php:26
+msgid "Show / hide room types. Defaults to 1."
+msgstr ""
+
+#: views/help.html.php:27
+msgid "Show / hide bahtroom information. Defaults to 1."
+msgstr ""
+
+#: views/help.html.php:28
+msgid ""
+"This will automatically group rooms of same type / gender / number of beds / "
+"price. For example if you have 3 mixed dorm rooms with 8 beds and same "
+"price, only one will be shown. In cases when there is different number of "
+"available rooms, our smart logic engine will choose the one with the best "
+"availability. Learn more below. This parameter defaults to 0."
+msgstr ""
+
+#: views/help.html.php:29
+msgid "The maximum number of days that can be selected. Defaults to 5."
+msgstr ""
+
+#: views/help.html.php:30
+msgid ""
+"Whether to switch the \"availability\" table cells to vertical display to "
+"avoid making the table too wide. By default this setting is off. Pass number "
+"of days after which the cells should turn vertical."
+msgstr ""
+
+#: views/help.html.php:31
+msgid ""
+"By default this shortcode shows each of the selected dates along with the "
+"availability for it. You can hide this by passing \"hide_dates=1\"."
+msgstr ""
+
+#: views/help.html.php:32
+msgid ""
+"Defines how rooms are sorted. Possible values: title or price. Defaults to "
+"\"price\"."
+msgstr ""
+
+#: views/help.html.php:33
+msgid ""
+"Defines the direction of sorting - asceding or descending. Possible values: "
+"asc or desc. Defaults to \"asc\"."
+msgstr ""
+
+#: views/help.html.php:35
+msgid ""
+"For example using the shortcode like this: <b>%s</b> will generate a table "
+"that shows room titles and descriptions withouth \"type\" information."
+msgstr ""
+
+#: views/help.html.php:37
+msgid ""
+"displays a generic booking form with a drop-down selector for choosing room, "
+"and a date selector. If you use the [hostelpro-list] shortcode you most "
+"probably do not need this one because the booking form is automatically "
+"generated."
+msgstr ""
+
+#: views/help.html.php:40
+msgid "How the smart logic chooses which room to show when rooms are grouped?"
+msgstr ""
+
+#: views/help.html.php:42
+msgid ""
+"When you use the [hostelpro-list] code with group_rooms=1 (like this: "
+"[hostelpro_list group_rooms=1]), the following logic will be used:"
+msgstr ""
+
+#: views/help.html.php:44
+msgid ""
+"The room that has available beds for more of the user-selected days will be "
+"preferred."
+msgstr ""
+
+#: views/help.html.php:45
+msgid ""
+"In case of a tie the room that has more available beds in the least "
+"available day will be preferred."
+msgstr ""
+
+#: views/help.html.php:46
+msgid ""
+"In case of a tie the room with the highest sum of available beds in the user-"
+"selected days will be preferred."
+msgstr ""
+
+#: views/help.html.php:49
+msgid ""
+"This algo is used by the most popular hostel listing sites so we decided to "
+"follow it."
+msgstr ""
+
+#: views/help.html.php:51
+msgid "Translating"
+msgstr ""
+
+#: views/help.html.php:53
+msgid ""
+"If you want to translate this plugin check out <a href=\"%s\" target=\"_blank"
+"\">this guide</a>. The language template file is available in the plugin "
+"folder and called hostelpro.pot. Our plugin textdomain is \"hostelpro\" and "
+"you have to place your .po and .mo files in folder languages/"
+msgstr ""
+
+#: views/help.html.php:55
+msgid "Modifying the views/templates"
+msgstr ""
+
+#: views/help.html.php:57
+msgid "Only for advanced users!"
+msgstr ""
+
+#: views/help.html.php:59
+msgid ""
+"You can safely customize all files from the \"views\" folders by placing "
+"their copies in your theme folder. Simply create folder \"hostelpro\" <b>in "
+"your theme root folder</b> and copy the files you want to custom from \"views"
+"\" folder directly there."
+msgstr ""
+
+#: views/help.html.php:61
+msgid "For example:"
+msgstr ""
+
+#: views/help.html.php:64
+msgid ""
+"If you are using the Twenty Fourteen theme, you should create folder "
+"\"hostelpro\" under it so the structure will now be something like <b>wp-"
+"content/themes/twentyfourteen/hostelpro</b>. (The files that are above the "
+"new \"hostelpro\" folder should remain where they are)."
+msgstr ""
+
+#: views/help.html.php:65
+msgid ""
+"Then if you want to modify the \"Manage Rooms\" page copy the file rooms.php "
+"from the plugin \"views\" folder and place it in the new \"hostelpro\" "
+"folder so you will have  <b>wp-content/themes/twentyfourteen/hostelpro/rooms."
+"php</b>"
+msgstr ""
+
+#: views/help.html.php:68
+msgid ""
+"Don't worry if you use modified WordPress directory structure and don't have "
+"'wp-content' folder. The trick will work with any structure as long as you "
+"follow the same logic."
+msgstr ""
+
+#: views/help.html.php:70
+msgid ""
+"Then feel free to modify the code, but of course be careful not to mess with "
+"the PHP or Javascript inside. This will let you change the design and even "
+"part of the functionality and not lose these changes when the plugin is "
+"upgraded. Be careful: we can not provide support for your custom versions of "
+"our views."
+msgstr ""
+
+#: views/help.html.php:72
+msgid "Extending"
+msgstr ""
+
+#: views/help.html.php:74
+msgid ""
+"If you want to extend the plugin with custom functions our <a href=\"%s\" "
+"target=\"_blank\">Developers API</a> may come handy. Please let us know if "
+"you need a hook or filter to be added."
+msgstr ""
+
+#: views/help.html.php:76
+msgid "Questions and Support"
+msgstr ""
+
+#: views/ical.html.php:11 views/ical.html.php:12
+msgid "Unavailable dates"
+msgstr ""
+
+#: views/list-rooms.html.php:3
+msgid "Arriving:"
+msgstr ""
+
+#: views/list-rooms.html.php:4
+msgid "Leaving:"
+msgstr ""
+
+#: views/list-rooms.html.php:5
+msgid "Show availability"
+msgstr ""
+
+#: views/list-rooms.html.php:22
+msgid "Please select up to %d days interval."
+msgstr ""
+
+#: views/manage-invoice-template.html.php:4
+msgid ""
+"Here you can edit the design of the template used to generate invoices. The "
+"following variables can be used:"
+msgstr ""
+
+#: views/manage-invoice-template.html.php:11
+msgid "Save Design"
+msgstr ""
+
+#: views/minstays.html.php:2
+msgid "Manage periods for minimum stay"
+msgstr ""
+
+#: views/minstays.html.php:4
+msgid ""
+"If the <b>start date</b> selected by the guest falls within some of the "
+"defined periods, the corresponding minimum stay requirement will be applied. "
+"If multiple periods match, the system will use the first one. If no period "
+"match, the system will use the global minimum stay requirement defined on "
+"your Settings page, if any."
+msgstr ""
+
+#: views/minstays.html.php:9 views/minstays.html.php:20
+msgid "Min. stay:"
+msgstr ""
+
+#: views/minstays.html.php:10
+msgid "Add Period"
+msgstr ""
+
+#: views/minstays.html.php:21
+msgid "Save"
+msgstr ""
+
+#: views/minstays.html.php:35
+msgid "Please enter positive number of days."
+msgstr ""
+
+#: views/multiple-bookings.html.php:3
+msgid "Grand total: %1$s%2$s"
+msgstr ""
+
+#: views/multiple-bookings.html.php:4
+msgid "Confirm Reservation"
+msgstr ""
+
+#: views/multiple-bookings.html.php:4
+msgid "Book More Rooms"
+msgstr ""
+
+#: views/options.php:2
+msgid "Hostel PRO Options"
+msgstr ""
+
+#: views/options.php:6
+msgid "Currency:"
+msgstr ""
+
+#: views/options.php:13
+msgid "Custom"
+msgstr ""
+
+#: views/options.php:16
+msgid "Show no decimals."
+msgstr ""
+
+#: views/options.php:18
+msgid "Booking mode:"
+msgstr ""
+
+#: views/options.php:19 views/options.php:26
+msgid "No booking"
+msgstr ""
+
+#: views/options.php:20
+msgid "Manual / Other / No Payment"
+msgstr ""
+
+#: views/options.php:21 views/options.php:29
+msgid "Paypal"
+msgstr ""
+
+#: views/options.php:22 views/options.php:31
+msgid "Stripe"
+msgstr ""
+
+#: views/options.php:24
+msgid "Allow multiple bookings within one session."
+msgstr ""
+
+#: views/options.php:26
+msgid ""
+"- In this mode your site will only show the information for the rooms and "
+"will not let the visitors book rooms"
+msgstr ""
+
+#: views/options.php:28
+msgid "Manual / No Payment"
+msgstr ""
+
+#: views/options.php:28
+msgid ""
+"- In this mode your visitors will be able to request booking by clicking on "
+"button and filling their information in the booking form. You as admin will "
+"approve or reject the booking manually in the admin panel. If there is "
+"button code or payment instructions entered they will also be shown."
+msgstr ""
+
+#: views/options.php:28
+msgid ""
+"In this mode use the \"Other payment instructions box\" also to show "
+"confirmation or thank-you message."
+msgstr ""
+
+#: views/options.php:29
+msgid ""
+"- In this mode your visitors will be able to book and get their bookings "
+"activated instantly by paying by Paypal"
+msgstr ""
+
+#: views/options.php:31
+msgid ""
+"- In this mode your visitors will be able to book and get their bookings "
+"activated instantly by paying by Stripe"
+msgstr ""
+
+#: views/options.php:36
+msgid "View payments errorlog"
+msgstr ""
+
+#: views/options.php:41
+msgid "Your Paypal Email:"
+msgstr ""
+
+#: views/options.php:42
+msgid "Use Paypal in sandbox mode"
+msgstr ""
+
+#: views/options.php:43
+msgid ""
+"Note: Paypal IPN will not work if your site is behind a \"htaccess\" login "
+"box or running on localhost. Your site must be accessible from the internet "
+"for the IPN to work. In cases when IPN cannot work you need to use Paypal "
+"PDT."
+msgstr ""
+
+#: views/options.php:45
+msgid ""
+"Use Paypal PDT instead of IPN (<a href=\"%s\" target=\"_blank\">Why and how</"
+"a>)"
+msgstr ""
+
+#: views/options.php:48
+msgid "Paypal PDT Token:"
+msgstr ""
+
+#: views/options.php:51 views/options.php:60
+msgid "After payment redirect to this URL:"
+msgstr ""
+
+#: views/options.php:55
+msgid "Your Public Stripe Key:"
+msgstr ""
+
+#: views/options.php:56
+msgid "Your Secret Stripe Key:"
+msgstr ""
+
+#: views/options.php:57
+msgid ""
+"Text to show after successful payment (use this if you do not use a redirect "
+"URL):"
+msgstr ""
+
+#: views/options.php:59
+msgid ""
+"You can use the variable {{{back-url}}} to generate a link back to the page "
+"where the visitor was prior to payment. Please note the variable makes URL "
+"and not a clickable link, so you need to make it clickable using the rich "
+"text editor above. This lets you put your own clickable text."
+msgstr ""
+
+#: views/options.php:64
+msgid "Guests have to pay"
+msgstr ""
+
+#: views/options.php:67
+msgid "of the booking cost in advance"
+msgstr ""
+
+#: views/options.php:69
+msgid "Other payment instructions (optional):"
+msgstr ""
+
+#: views/options.php:72
+msgid ""
+"You can use this box to provide instructions about advance payment by bank "
+"wire or checque or even to include HTML button code from payment systems "
+"like CCAvenue, Authorize.net, 2Checkout.com etc. The following variables can "
+"be used:"
+msgstr ""
+
+#: views/options.php:75
+msgid ""
+"Unique ID of the booking - might be useful for management purposes or enter "
+"as Order ID in the button code etc."
+msgstr ""
+
+#: views/options.php:76
+msgid "The amount that has to be paid in advance (Amount due now)."
+msgstr ""
+
+#: views/options.php:77
+msgid "The amount due on arrival."
+msgstr ""
+
+#: views/options.php:78
+msgid "A table with breakdown of all costs and discounts."
+msgstr ""
+
+#: views/options.php:81
+msgid "Automatically cleanup unconfirmed (unpaid) bookings after"
+msgstr ""
+
+#: views/options.php:81
+msgid "hours. (Leave blank for no automated cleanup.)"
+msgstr ""
+
+#: views/options.php:85
+msgid "Require minimum stay of:"
+msgstr ""
+
+#: views/options.php:85
+msgid "Define different minimum stay requirements for different periods"
+msgstr ""
+
+#: views/options.php:86
+msgid "Guests can book rooms from:"
+msgstr ""
+
+#: views/options.php:87
+msgid "Next day"
+msgstr ""
+
+#: views/options.php:88
+msgid "Same day"
+msgstr ""
+
+#: views/options.php:91
+msgid "Limit bookings to"
+msgstr ""
+
+#: views/options.php:93
+msgid "months"
+msgstr ""
+
+#: views/options.php:94
+msgid "years"
+msgstr ""
+
+#: views/options.php:95
+msgid "in the future"
+msgstr ""
+
+#: views/options.php:99
+msgid "Notification Settings"
+msgstr ""
+
+#: views/options.php:101
+msgid "Send emails from:"
+msgstr ""
+
+#: views/options.php:101
+msgid "Your Name"
+msgstr ""
+
+#: views/options.php:101
+msgid "If you leave this empty, the WordPress sender email will be used."
+msgstr ""
+
+#: views/options.php:102
+msgid ""
+"Send me email with booking details when someone makes or requests a booking"
+msgstr ""
+
+#: views/options.php:105
+msgid "Email address to receive the notice:"
+msgstr ""
+
+#: views/options.php:106 views/options.php:125
+msgid "Email subject:"
+msgstr ""
+
+#: views/options.php:107 views/options.php:126
+msgid "Email message:"
+msgstr ""
+
+#: views/options.php:108 views/options.php:127
+msgid "You can use the following variables:"
+msgstr ""
+
+#: views/options.php:108
+msgid "(The URL to see the booking details in admin)"
+msgstr ""
+
+#: views/options.php:109 views/options.php:128
+msgid "(Date/time when reservation is made)"
+msgstr ""
+
+#: views/options.php:109 views/options.php:128
+msgid "(The addon services purchased, if any"
+msgstr ""
+
+#: views/options.php:111 views/options.php:130
+msgid "And the variables from the custom fields:"
+msgstr ""
+
+#: views/options.php:118
+msgid ""
+"The start / end tags %s and %s are useful if you have enabled multiple "
+"bookings mode. It will mark which part of your email contains the list of "
+"bookings and will be repeated once for each booking made."
+msgstr ""
+
+#: views/options.php:121
+msgid "Send confirmation email to user when booking is made"
+msgstr ""
+
+#: views/options.php:140
+msgid "Anti SPAM Options"
+msgstr ""
+
+#: views/options.php:142
+msgid "Enable advanced \"honeypot\" field on the booking form."
+msgstr ""
+
+#: views/options.php:142
+msgid "(Learn more)"
+msgstr ""
+
+#: views/options.php:144
+msgid "Enable question based captcha"
+msgstr ""
+
+#: views/options.php:147
+msgid ""
+"You can use a simple text-based captcha to prevent spam bookings. Use the "
+"shortcode %s to include it in the booking form. We have loaded 3 basic "
+"questions but you can edit them and load your own. Make sure to enter only "
+"one question per line and use = to separate question from answer."
+msgstr ""
+
+#: views/options.php:151
+msgid "Other Technical Settings"
+msgstr ""
+
+#: views/options.php:153
+msgid ""
+"Enable debug mode to see SQL errors. (Useful in case you have any problems)"
+msgstr ""
+
+#: views/options.php:156
+msgid "View latest iCal import error"
+msgstr ""
+
+#: views/options.php:160
+msgid "Save Options"
+msgstr ""
+
+#: views/options.php:167
+msgid "Role Management"
+msgstr ""
+
+#: views/options.php:170
+msgid "Wordpress roles that can administrate the plugin"
+msgstr ""
+
+#: views/options.php:172
+msgid ""
+"By default this is only the blog administrator. Here you can enable any of "
+"the other roles as well"
+msgstr ""
+
+#: views/options.php:179
+msgid "Fine-tune these settings"
+msgstr ""
+
+#: views/options.php:180
+msgid "Save Role Management Settings"
+msgstr ""
+
+#: views/options.php:186
+msgid "Conversion Tracking"
+msgstr ""
+
+#: views/options.php:189
+msgid ""
+"If you are using conversion tracking, for example from Google Adwords, you "
+"need to add the \"onclick\" JavaScript code here. With Google Adwords this "
+"code would be \"%s\" (<a href=\"%s\" target=\"_blank\">more info</a>).<br> "
+"If any scripts need to be added to your page HTML you still need to do it in "
+"your theme."
+msgstr ""
+
+#: views/options.php:190
+msgid "Code to evaluate on booking:"
+msgstr ""
+
+#: views/options.php:191
+msgid ""
+"Note that the function will be called when the booking form is submitted "
+"successfully. It will not wait for online payments to be verified."
+msgstr ""
+
+#: views/options.php:192
+msgid "Save Conversion Tracking Code"
+msgstr ""
+
+#: views/options.php:197
+msgid "Datepicker Localization and Theming"
+msgstr ""
+
+#: views/options.php:200
+msgid ""
+"Here you can specify localization and theme files for your datepicker. "
+"Please do read <a href=\"%s\" target=\"_blank\">this article</a> for more "
+"information."
+msgstr ""
+
+#: views/options.php:201
+msgid "Localization  file URL:"
+msgstr ""
+
+#: views/options.php:202
+msgid "CSS Theme URL:"
+msgstr ""
+
+#: views/options.php:203
+msgid "Save Datepicker Settings"
+msgstr ""
+
+#: views/options.php:208
+msgid "Copy Settings from Hostel"
+msgstr ""
+
+#: views/options.php:211
+msgid ""
+"You have the free Hostel plugin installed. Do you want to copy the global "
+"settings from it? (Rooms and booking data does not need to be copied - it is "
+"shared between both plugins)."
+msgstr ""
+
+#: views/options.php:212
+msgid ""
+"When copying settings also convert any Hostel shortcodes used in the site to "
+"Hostel PRO shortcodes"
+msgstr ""
+
+#: views/options.php:213
+msgid "Copy settings"
+msgstr ""
+
+#: views/partial/multiple-table.html.php:1
+msgid "Your Booking Summary"
+msgstr ""
+
+#: views/partial/multiple-table.html.php:5
+msgid "Room &amp; Details"
+msgstr ""
+
+#: views/partial/multiple-table.html.php:15
+msgid "%d + %d beds"
+msgstr ""
+
+#: views/partial/multiple-table.html.php:16
+#: views/partial/rooms-table.html.php:31
+msgid "%d beds"
+msgstr ""
+
+#: views/partial/multiple-table.html.php:17
+msgid "(%d children)"
+msgstr ""
+
+#: views/partial/multiple-table.html.php:22
+msgid "%1$s / %2$s, phone: %3$s"
+msgstr ""
+
+#: views/partial/multiple-table.html.php:24
+msgid "(%1$s%2$s discounts)"
+msgstr ""
+
+#: views/partial/rooms-table.html.php:3 views/room.php:9 views/rooms.php:18
+#: views/unavailable-dates.html.php:19
+msgid "Room type"
+msgstr ""
+
+#: views/partial/rooms-table.html.php:4 views/room.php:23 views/rooms.php:19
+msgid "Bathroom"
+msgstr ""
+
+#: views/partial/rooms-table.html.php:12
+msgid "Room Availability"
+msgstr ""
+
+#: views/partial/rooms-table.html.php:34
+msgid "%s discount!"
+msgstr ""
+
+#: views/partial/rooms-table.html.php:35
+msgid "+%s"
+msgstr ""
+
+#: views/partial/rooms-table.html.php:57
+msgid "Not available"
+msgstr ""
+
+#: views/pay-paypal.html.php:1 views/pay-stripe.html.php:1
+msgid "Booking ID:"
+msgstr ""
+
+#: views/pay-paypal.html.php:2 views/pay-stripe.html.php:2
+msgid "Amount due now:"
+msgstr ""
+
+#: views/pay-paypal.html.php:4 views/pay-stripe.html.php:4
+msgid "Amount due on arrival:"
+msgstr ""
+
+#: views/pay-paypal.html.php:7 views/pay-stripe.html.php:7
+msgid "Invalid discount code entered. Discount not applied."
+msgstr ""
+
+#: views/pay-paypal.html.php:10 views/pay-stripe.html.php:10
+msgid "%s discount applies!"
+msgstr ""
+
+#: views/pay-paypal.html.php:17 views/pay-stripe.html.php:17
+msgid "Booking for %s Room / %d"
+msgstr ""
+
+#: views/raw-code-booking.html.php:4
+msgid "No. beds to book"
+msgstr ""
+
+#: views/raw-code-booking.html.php:9
+msgid "Contact Name:"
+msgstr ""
+
+#: views/raw-code-booking.html.php:11
+msgid "Contact Email:"
+msgstr ""
+
+#: views/raw-code-booking.html.php:13
+msgid "Contact Phone:"
+msgstr ""
+
+#: views/raw-code-booking.html.php:37
+msgid "You are:"
+msgstr ""
+
+#: views/reports.html.php:12
+msgid "Reports and Charts"
+msgstr ""
+
+#: views/reports.html.php:20
+msgid "Reload Reports"
+msgstr ""
+
+#: views/reports.html.php:25
+msgid "Money earned per room"
+msgstr ""
+
+#: views/reports.html.php:37 views/reports.html.php:60
+#: views/reports.html.php:77 views/reports.html.php:100
+#: views/reports.html.php:117
+msgid "No data"
+msgstr ""
+
+#: views/reports.html.php:42
+msgid "Money earned per room type"
+msgstr ""
+
+#: views/reports.html.php:55 views/reports.html.php:95 views/room.php:11
+msgid "Dorm"
+msgstr ""
+
+#: views/reports.html.php:65
+msgid "Occupancy rate per room"
+msgstr ""
+
+#: views/reports.html.php:82
+msgid "Occupancy rate per room type"
+msgstr ""
+
+#: views/reports.html.php:107
+msgid "Money earned per day"
+msgstr ""
+
+#: views/reports.html.php:110
+msgid "Date"
+msgstr ""
+
+#: views/reports.html.php:110
+msgid "Income"
+msgstr ""
+
+#: views/reports.html.php:122
+msgid "Other global stats"
+msgstr ""
+
+#: views/reports.html.php:125
+msgid "Total amount of bookings:"
+msgstr ""
+
+#: views/reports.html.php:126
+msgid "New bookings made in this period:"
+msgstr ""
+
+#: views/reports.html.php:188
+msgid "You can run reports for maximum 90 days."
+msgstr ""
+
+#: views/roles.html.php:2
+msgid "Manage role access in Hostel Pro"
+msgstr ""
+
+#: views/roles.html.php:5
+msgid ""
+"To edit this page you need to enable some roles to manage the plugin on the "
+"<a href=\"%s\" target=_blank\">Hostel PRO Settings page</a>."
+msgstr ""
+
+#: views/roles.html.php:12
+msgid "Please select role to configure:"
+msgstr ""
+
+#: views/roles.html.php:13
+msgid "- Please select role -"
+msgstr ""
+
+#: views/roles.html.php:21
+msgid "Manage Settings page:"
+msgstr ""
+
+#: views/roles.html.php:22
+msgid "Manage settings"
+msgstr ""
+
+#: views/roles.html.php:23
+msgid "No access to manage settings"
+msgstr ""
+
+#: views/roles.html.php:26
+msgid "Manage Rooms:"
+msgstr ""
+
+#: views/roles.html.php:27
+msgid "Manage rooms"
+msgstr ""
+
+#: views/roles.html.php:28
+msgid "Manage only rooms created by the user"
+msgstr ""
+
+#: views/roles.html.php:29
+msgid "No access to manage rooms"
+msgstr ""
+
+#: views/roles.html.php:32
+msgid "Manage Addon Services:"
+msgstr ""
+
+#: views/roles.html.php:33
+msgid "Manage addons"
+msgstr ""
+
+#: views/roles.html.php:34
+msgid "Manage only addons created by the user"
+msgstr ""
+
+#: views/roles.html.php:35
+msgid "No access to manage addons"
+msgstr ""
+
+#: views/roles.html.php:38
+msgid "Manage Bookings:"
+msgstr ""
+
+#: views/roles.html.php:39
+msgid "Manage all bookings"
+msgstr ""
+
+#: views/roles.html.php:40
+msgid "Manage only bookings manually created by the user"
+msgstr ""
+
+#: views/roles.html.php:41
+msgid "No access to manage bookings"
+msgstr ""
+
+#: views/roles.html.php:44
+msgid "Calendar Overview page:"
+msgstr ""
+
+#: views/roles.html.php:45
+msgid "Access calendar overview"
+msgstr ""
+
+#: views/roles.html.php:46
+msgid "No access to calendar overview"
+msgstr ""
+
+#: views/roles.html.php:49
+msgid "Manage Booking Form:"
+msgstr ""
+
+#: views/roles.html.php:50
+msgid "Manage booking form"
+msgstr ""
+
+#: views/roles.html.php:51
+msgid "No access to manage booking form"
+msgstr ""
+
+#: views/roles.html.php:54
+msgid "Unavailable Dates:"
+msgstr ""
+
+#: views/roles.html.php:55
+msgid "Manage unavailable dates"
+msgstr ""
+
+#: views/roles.html.php:56
+msgid "No access to manage unavailable dates"
+msgstr ""
+
+#: views/roles.html.php:59
+msgid "Manage Discounts & Surcharges:"
+msgstr ""
+
+#: views/roles.html.php:60
+msgid "Manage discounts/surcharges"
+msgstr ""
+
+#: views/roles.html.php:61
+msgid "Manage only discounts/surcharges created by the user"
+msgstr ""
+
+#: views/roles.html.php:62
+msgid "No access to manage discounts/surcharges"
+msgstr ""
+
+#: views/roles.html.php:65
+msgid "Advanced Reports page:"
+msgstr ""
+
+#: views/roles.html.php:66
+msgid "Access advanced reports"
+msgstr ""
+
+#: views/roles.html.php:67
+msgid "No access to advanced reports"
+msgstr ""
+
+#: views/roles.html.php:70
+msgid "Advanced Email log:"
+msgstr ""
+
+#: views/roles.html.php:71
+msgid "Access email log"
+msgstr ""
+
+#: views/roles.html.php:72
+msgid "No access to email log"
+msgstr ""
+
+#: views/roles.html.php:77
+msgid "Save configuration for this role"
+msgstr ""
+
+#: views/room-booking-calendar.html.php:3
+msgid "Booking calendar for room \"%s\""
+msgstr ""
+
+#: views/room-booking-calendar.html.php:16
+msgid "The room is unavailable from %s to %s"
+msgstr ""
+
+#: views/room-booking-calendar.html.php:17
+msgid ""
+"Booking ID: %d from %s (%s) - from %s to %s (<a href=\"admin.php?"
+"page=hostelpro_bookings&do=edit&id=%d&type=upcoming\" target=\"_blank\">view/"
+"edit</a>)"
+msgstr ""
+
+#: views/room-booking-calendar.html.php:25
+msgid "Close popup"
+msgstr ""
+
+#: views/room-calendar-shortcode.html.php:2
+msgid "Room Availability Calendar"
+msgstr ""
+
+#: views/room-calendar-shortcode.html.php:4
+msgid ""
+"Here you can configure and get shortcode for room availability calendar. You "
+"can then publish the calendar on a page describing your room. Feel free to "
+"also add the <a href=\"%s\">booking button shortcode</a> or even embed a <a "
+"href=\"%s\">booking form</a> on the same page"
+msgstr ""
+
+#: views/room-calendar-shortcode.html.php:6
+msgid "Selected room:"
+msgstr ""
+
+#: views/room-calendar-shortcode.html.php:8
+msgid "Back to manage rooms"
+msgstr ""
+
+#: views/room-calendar-shortcode.html.php:10
+msgid "Configure Calendar"
+msgstr ""
+
+#: views/room-calendar-shortcode.html.php:12
+msgid "Show calendar for:"
+msgstr ""
+
+#: views/room-calendar-shortcode.html.php:12
+msgid "Current month"
+msgstr ""
+
+#: views/room-calendar-shortcode.html.php:13
+msgid "Three months"
+msgstr ""
+
+#: views/room-calendar-shortcode.html.php:14
+msgid ""
+"Bookable - if selected, will also display a booking button. Otherwise only "
+"shows which dates are available."
+msgstr ""
+
+#: views/room-calendar-shortcode.html.php:16
+msgid ""
+"If the user starts clicking on a date right before a booked date the booking "
+"form will automatically load for one-day stay. You can choose to prompt the "
+"user about this and enter a confirmation message below. If you enter no "
+"message, the guest will not be asked."
+msgstr ""
+
+#: views/room-calendar-shortcode.html.php:19
+msgid "Update shortcode"
+msgstr ""
+
+#: views/room-calendar-shortcode.html.php:22
+msgid "Get shortcode:"
+msgstr ""
+
+#: views/room.php:1
+msgid "Create/Edit Hostel Room"
+msgstr ""
+
+#: views/room.php:3
+msgid "Back to rooms"
+msgstr ""
+
+#: views/room.php:7
+msgid "Room title*"
+msgstr ""
+
+#: views/room.php:8
+msgid "For management purposes"
+msgstr ""
+
+#: views/room.php:20
+msgid "Number of beds"
+msgstr ""
+
+#: views/room.php:21
+msgid "Extra beds available:"
+msgstr ""
+
+#: views/room.php:21
+msgid "at price per bed:"
+msgstr ""
+
+#: views/room.php:22
+msgid "Allow overbooking up to"
+msgstr ""
+
+#: views/room.php:22
+msgid "beds"
+msgstr ""
+
+#: views/room.php:22
+msgid "(What's this?)"
+msgstr ""
+
+#: views/room.php:27
+msgid "Price:"
+msgstr ""
+
+#: views/room.php:36
+msgid "Discount partial occupancy"
+msgstr ""
+
+#: views/room.php:37
+msgid ""
+"By default private rooms require booking all beds regardless how many "
+"persons will really stay in the room. By checking the above checkbox you can "
+"allow partial booking at discounted price."
+msgstr ""
+
+#: views/room.php:39 views/room.php:143
+msgid "Price in %s when booked by:"
+msgstr ""
+
+#: views/room.php:42
+msgid "%d guests:"
+msgstr ""
+
+#: views/room.php:49
+msgid "Set different price for child beds."
+msgstr ""
+
+#: views/room.php:51
+msgid "Price in %s per child bed:"
+msgstr ""
+
+#: views/room.php:52
+msgid "Label of the field (ex. \"Number of children under 12:\")"
+msgstr ""
+
+#: views/room.php:53
+msgid "The number of children is included in the number of total beds booked."
+msgstr ""
+
+#: views/room.php:54
+msgid ""
+"Accept maximum of %s children in the room and require at least %s adult with "
+"them."
+msgstr ""
+
+#: views/room.php:60
+msgid ""
+"Allow booking the whole room at a discounted price of %1$s%2$s. Leave blank "
+"or enter 0 to not allow such option."
+msgstr ""
+
+#: views/room.php:64
+msgid "Short notes / resume:"
+msgstr ""
+
+#: views/room.php:65
+msgid ""
+"The short notes will appear in the rooms table when you use the [hostelpro-"
+"list] shortcode. You can use them to add extra information for the room, for "
+"example about extra beds available etc."
+msgstr ""
+
+#: views/room.php:66
+msgid "It can also be displayed on the booking form using the shortcode %s."
+msgstr ""
+
+#: views/room.php:68
+msgid "Room description (optional):"
+msgstr ""
+
+#: views/room.php:69
+msgid ""
+"You can use the shortcode %s to show the room description anywhere on the "
+"site."
+msgstr ""
+
+#: views/room.php:74
+msgid "Import external calendar (optional):"
+msgstr ""
+
+#: views/room.php:74
+msgid "URLs of iCal / ics files, one per line"
+msgstr ""
+
+#: views/room.php:78
+msgid "Save room details"
+msgstr ""
+
+#: views/room.php:86
+msgid ""
+"Please enter room title. This is important so you can recognize the room "
+"when editing it and when viewing its bookings"
+msgstr ""
+
+#: views/room.php:92
+msgid "Please enter number of beds in the room. Use only numbers."
+msgstr ""
+
+#: views/room.php:98
+msgid "Please enter room price, numbers only"
+msgstr ""
+
+#: views/room.php:139
+msgid "Partial occupancy is possible for rooms with at least 2 beds."
+msgstr ""
+
+#: views/room.php:145
+msgid "guests:"
+msgstr ""
+
+#: views/rooms.php:8
+msgid "Click here to add room"
+msgstr ""
+
+#: views/rooms.php:11
+msgid "You have not added any rooms yet."
+msgstr ""
+
+#: views/rooms.php:18 views/unavailable-dates.html.php:19
+msgid "Room title"
+msgstr ""
+
+#: views/rooms.php:18
+msgid "Num beds"
+msgstr ""
+
+#: views/rooms.php:19
+msgid "Book button shortcode"
+msgstr ""
+
+#: views/rooms.php:27
+msgid "View bookings calendar"
+msgstr ""
+
+#: views/rooms.php:29
+msgid "Create calendar"
+msgstr ""
+
+#: views/rooms.php:31
+msgid "iCalendar"
+msgstr ""
+
+#: views/rooms.php:33
+msgid "Get link:"
+msgstr ""
+
+#: views/rooms.php:35
+msgid "Download file"
+msgstr ""
+
+#: views/rooms.php:50
+msgid ""
+"When you place the booking shortcode a \"Book\" button will be automatically "
+"generated. Use it on a page where you have manually described your room with "
+"pictures etc. You can pass custom button text as second argument to the "
+"shortcode - like this:"
+msgstr ""
+
+#: views/rooms.php:61
+msgid "Room bookings calendar"
+msgstr ""
+
+#: views/unavailable-dates.html.php:2
+msgid "Manage Unavailable Dates"
+msgstr ""
+
+#: views/unavailable-dates.html.php:4
+msgid ""
+"Use this page to set up dates when specific rooms can not be booked. This "
+"might be due to your scheduled maintenance, holiday, or any other date when "
+"your property will not be working, or just a specific room will not be "
+"available."
+msgstr ""
+
+#: views/unavailable-dates.html.php:6
+msgid ""
+"Note that for simplicity bookings made will not be reflected here. Making "
+"dates available does not mean there are no already made reservations for it."
+msgstr ""
+
+#: views/unavailable-dates.html.php:8
+msgid ""
+"The table below will show a room as unavailable only if unavailability is "
+"set exactly for the selected period or is unavailable in a longer period "
+"that fully includes the selected one. Any partially overlapping period will "
+"be shown in additional column. There is no problem to overlap unavailable "
+"periods."
+msgstr ""
+
+#: views/unavailable-dates.html.php:16
+msgid "Change Dates"
+msgstr ""
+
+#: views/unavailable-dates.html.php:19
+msgid "Make unavailable"
+msgstr ""
+
+#: views/unavailable-dates.html.php:21
+msgid "Partially overlapping<br>unavailable periods"
+msgstr ""
+
+#: views/unavailable-dates.html.php:38
+msgid ""
+"You can click on any of the \"Partially overlapping unavailable periods\" to "
+"quickly reset the date slection to that period."
+msgstr ""
+
+#: views/unavailable-dates.html.php:41
+msgid "Save Unavailable Rooms"
+msgstr ""
